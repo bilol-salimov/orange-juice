@@ -51,12 +51,12 @@ export default class App extends Component {
           btn="View Product"
         />
         <Card
-          img="https://static.wixstatic.com/media/b650ce_2fdf1eeaefa446c3b816addea4606b64~mv2.png/v1/fit/w_500,h_500,q_90/file.png"
-          title="Orange Juice"
+          img="https://cdn.shopify.com/s/files/1/0517/9133/1493/products/1610724124.61_succo-di-frutta-pera-2021-458641_600x.png?v=1629352633"
+          title="Pear Juice"
           description="Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat,
             dolor?"
-          price="$ 4.99"
-          off="40"
+          price="$ 4.49"
+          off="50"
           btn="View Product"
         />
       </div>
